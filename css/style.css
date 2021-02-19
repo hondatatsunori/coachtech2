@@ -541,11 +541,11 @@ body {
   }
 
   .service {
-    height: 1500px;
+    height: 1180px;
   }
 
   .service-content {
-    flex-wrap: wrap;
+    margin-bottom: 75%;
   }
 
   .service-img {
@@ -559,16 +559,10 @@ body {
   }
 
   .service-content_inner {
-    top: 70%;
+    top: 80%;
     left: 5%;
     width: 90%;
   }
-
-
-
-
-
-
 
   .recruit-company_size {
     width: 100%;
