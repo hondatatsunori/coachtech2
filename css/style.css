@@ -540,12 +540,15 @@ body {
     width: 85%;
   }
 
+
+
+
   .service {
     height: 1180px;
   }
 
   .service-content {
-    margin-bottom: 75%;
+    margin-bottom: 2%;
   }
 
   .service-img {
@@ -559,10 +562,15 @@ body {
   }
 
   .service-content_inner {
-    top: 80%;
-    left: 5%;
+    position: static;
     width: 90%;
+    padding: 5% 5%;
+    margin-left: 5%;
   }
+
+
+
+
 
   .recruit-company_size {
     width: 100%;
