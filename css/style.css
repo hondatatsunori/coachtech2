@@ -540,9 +540,6 @@ body {
     width: 85%;
   }
 
-
-
-
   .service {
     height: 1180px;
   }
@@ -556,21 +553,11 @@ body {
     margin-left: 5%;
   }
 
-  .service-img_second {
-    margin-right: 5%;
-
-  }
-
   .service-content_inner {
     position: static;
     width: 90%;
-    padding: 5% 5%;
     margin-left: 5%;
   }
-
-
-
-
 
   .recruit-company_size {
     width: 100%;
